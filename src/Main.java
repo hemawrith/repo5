@@ -1,12 +1,15 @@
 public class Main {
     //hello there
-    public static void branchChanger() {
-        System.out.println("Brunch2 was changed again");
+    public static void myMethod1() {
+        System.out.println("Branch1 method");
     }
-    public static void opinion() {
-        System.out.println("It's pretty interesting");
+
+    public static void myMethod2() {
+        System.out.println("Nice job");
     }
     public static void main(String[] args) {
-
+        //1st commit comm
+        //2nd commit comm
+        //3rd commit comm
     }
 }
